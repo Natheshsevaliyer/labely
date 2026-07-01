@@ -1,0 +1,8 @@
+venv/
+.env
+.git
+project_dump.txt
+htmlcov/
+output/
+uploads/
+.pytest_cache
